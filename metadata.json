@@ -1,0 +1,7 @@
+{
+  "name": "機能てんこ盛り世界時計 EEW",
+  "description": "A high-precision digital clock displaying local time alongside synchronized world times for Japan, London, Berlin, and Omsk.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
